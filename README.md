@@ -6,7 +6,7 @@ A simple working example of an AWS Lambda screenshotting service using Node and 
 Running locally
 ---------------
 
-You can run this locally using [https://www.npmjs.com/package/lambda-local](lambda-local).
+You can run this locally using [lambda-local](https://www.npmjs.com/package/lambda-local).
 
 ```
 npm install -g lambda-local
